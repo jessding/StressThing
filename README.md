@@ -2,16 +2,16 @@ Connect to a FitBit and use health details to track when you tend to feel stress
 
 Future areas of potential development include integrating machine learning to proactively suggest destressing at certain points in time, and generalizing the input to support data from other types of fitness devices.
 
-Link to the front end source code [ReactJS]
+Link to the front end source code [ReactJS] <br>
 https://github.com/RonnJacob/Stressthing-React
 ------------------------------------------------------------
-Link to the back end source code [MongoDB, NodeJS, ExpressJS]
+Link to the back end source code [MongoDB, NodeJS, ExpressJS] <br>
 https://github.com/RonnJacob/Stressthing-Backend
 ------------------------------------------------------------------------------
-Link to Heroku Deployment for backend
+Link to Heroku Deployment for backend <br>
 https://stressthing-backend.herokuapp.com/
 ------------------------------------------------------------------------------------------------
-Link to AWS Deployment
+Link to AWS Deployment <br>
 https://master.d3a3z6eulkr9ca.amplifyapp.com/
 -------------------------------
 
