@@ -1,3 +1,20 @@
+Connect to a FitBit and use health details to track when you tend to feel stressed, log what your stressors are, and receive insights. Made at HackUMass VII.
+
+Future areas of potential development include integrating machine learning to proactively suggest destressing at certain points in time, and generalizing the input to support data from other types of fitness devices.
+
+Link to the front end source code [ReactJS]
+https://github.com/RonnJacob/Stressthing-React
+------------------------------------------------------------
+Link to the back end source code [MongoDB, NodeJS, ExpressJS]
+https://github.com/RonnJacob/Stressthing-Backend
+------------------------------------------------------------------------------
+Link to Heroku Deployment for backend
+https://stressthing-backend.herokuapp.com/
+------------------------------------------------------------------------------------------------
+Link to AWS Deployment
+https://master.d3a3z6eulkr9ca.amplifyapp.com/
+-------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
